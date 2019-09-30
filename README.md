@@ -1,2 +1,2 @@
 # Arduino_ValuePack
-ValuePack for Arduino
+##ValuePack is a simple protocol for transmission between cell phone and MCU(Arduino STM32,etc.)
