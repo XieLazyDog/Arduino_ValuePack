@@ -1,4 +1,4 @@
-// paste this code to your Arduino IDE
+// paste this code into your Arduino IDE
 //////////////////////////////////////////////////////////////////////////////////////////////
 //// Communication protocol start
 //// ----the only thing you need to do is modifying the numbers of variables according to your demand
